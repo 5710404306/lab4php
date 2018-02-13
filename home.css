@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+h1{
+    border: solid 1px black;
+}
+
+select{
+    padding: 10px;
+    border: solid 1px black;
+    border-radius: 20px;
+}
+
+button{
+  padding: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+}
+#calBMI{
+    background-color :yellow;
+    margin: 10px 40px 10px 40px;
+    padding: 10px;
+}
+
+#calBMR{
+    background-color: pink;
+    margin: 10px 40px 10px 40px;
+    padding: 10px;
+}
+
+#calCholes{
+    background-color :lightgreen;
+    margin: 10px 40px 10px 40px;
+    padding: 10px;
+}
